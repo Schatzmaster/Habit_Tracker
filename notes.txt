@@ -1,0 +1,11 @@
+Kind of API Requests:
+
+GET    - requests.get()  --> Ask for Data to retrieve them from external API
+POST   - requests.post() --> Give the external API Data from me.
+PUT    - requests.put()  --> Update Data in external API
+DELETE - requests.delete() --> Delete API in external API
+
+Header in APIs:
+
+The header is kind of the "header" of a letter. Normally not visible to external users.
+I write things in header with a dictionary in python and pass it somehow
